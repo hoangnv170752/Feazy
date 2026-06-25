@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "meetings": "Cuộc họp",
+    "registerFace": "Đăng ký khuôn mặt"
+  },
+  "header": {
+    "apiOnline": "Online",
+    "apiOffline": "Offline",
+    "apiChecking": "..."
+  },
+  "sidebar": {
+    "registered": "Đã đăng ký"
+  },
+  "hero": {
+    "title1": "Họp video với nhận diện",
+    "title2": "khuôn mặt thông minh",
+    "subtitle": "Kết nối, cộng tác và xác thực danh tính với Feazy Meet"
+  },
+  "actions": {
+    "newMeeting": "Cuộc họp mới",
+    "startWithFace": "Bắt đầu với Face Detection",
+    "registerFirst": "Đăng ký khuôn mặt trước",
+    "personIdPlaceholder": "Nhập Person ID để xác thực",
+    "join": "Tham gia"
+  },
+  "features": {
+    "videoCall": "Video Call",
+    "videoCallDesc": "Họp video chất lượng cao với camera",
+    "faceVerify": "Face Verification",
+    "faceVerifyDesc": "Xác thực danh tính bằng khuôn mặt",
+    "faceSearch": "Face Search",
+    "faceSearchDesc": "Tìm kiếm người trong database"
+  },
+  "learnMore": "Tìm hiểu thêm",
+  "learnMoreAbout": "về Feazy Meet",
+  "register": {
+    "title": "Đăng ký khuôn mặt",
+    "personId": "Person ID *",
+    "personIdPlaceholder": "VD: user_123",
+    "displayName": "Tên hiển thị",
+    "displayNamePlaceholder": "VD: Nguyễn Văn A",
+    "capture": "Chụp ảnh",
+    "retake": "Chụp lại",
+    "submit": "Đăng ký",
+    "cancel": "Hủy",
+    "requesting": "Đang yêu cầu quyền camera...",
+    "retry": "Thử lại",
+    "successMsg": "Đăng ký thành công! Confidence: {confidence}%",
+    "errorNoCapture": "Vui lòng chụp ảnh và nhập ID",
+    "errorCaptureCamera": "Không thể chụp ảnh",
+    "errorFallback": "Đăng ký thất bại",
+    "errorCameraDenied": "Bạn đã từ chối quyền truy cập camera.",
+    "errorCamera": "Lỗi camera: {message}"
+  }
+}

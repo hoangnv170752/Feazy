@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "meetings": "Meetings",
+    "registerFace": "Register Face"
+  },
+  "header": {
+    "apiOnline": "Online",
+    "apiOffline": "Offline",
+    "apiChecking": "..."
+  },
+  "sidebar": {
+    "registered": "Registered"
+  },
+  "hero": {
+    "title1": "Video meetings with smart",
+    "title2": "face recognition",
+    "subtitle": "Connect, collaborate and verify identity with Feazy Meet"
+  },
+  "actions": {
+    "newMeeting": "New Meeting",
+    "startWithFace": "Start with Face Detection",
+    "registerFirst": "Register face first",
+    "personIdPlaceholder": "Enter Person ID to verify",
+    "join": "Join"
+  },
+  "features": {
+    "videoCall": "Video Call",
+    "videoCallDesc": "High quality video meetings with camera",
+    "faceVerify": "Face Verification",
+    "faceVerifyDesc": "Verify identity using face recognition",
+    "faceSearch": "Face Search",
+    "faceSearchDesc": "Search people in the database"
+  },
+  "learnMore": "Learn more",
+  "learnMoreAbout": "about Feazy Meet",
+  "register": {
+    "title": "Register Face",
+    "personId": "Person ID *",
+    "personIdPlaceholder": "e.g. user_123",
+    "displayName": "Display Name",
+    "displayNamePlaceholder": "e.g. John Doe",
+    "capture": "Capture",
+    "retake": "Retake",
+    "submit": "Register",
+    "cancel": "Cancel",
+    "requesting": "Requesting camera permission...",
+    "retry": "Retry",
+    "successMsg": "Registered successfully! Confidence: {confidence}%",
+    "errorNoCapture": "Please capture a photo and enter an ID",
+    "errorCaptureCamera": "Could not capture photo",
+    "errorFallback": "Registration failed",
+    "errorCameraDenied": "You denied camera access.",
+    "errorCamera": "Camera error: {message}"
+  }
+}
